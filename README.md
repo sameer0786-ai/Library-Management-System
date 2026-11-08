@@ -8,7 +8,7 @@ The Library Management System provides a simple interface for managing book info
 
 ## 🖥️ Application Screenshot
 
-![Library Management System](library-dashboard.png)
+![Library Management System](./screenshots/library-dashboard.png)
 
 ## ✨ Features
 

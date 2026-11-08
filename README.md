@@ -6,6 +6,10 @@ A web-based Library Management System developed as a B.Tech project to organize 
 
 The Library Management System provides a simple interface for managing book information. It allows users to maintain book records and perform basic library management operations.
 
+## 🖥️ Application Screenshot
+
+![Library Management System](library-dashboard.png)
+
 ## ✨ Features
 
 - Add new book records
